@@ -29,7 +29,7 @@ function App() {
   return (
    <>
     <div className="container">
-      <h1>Task Master</h1>
+      <h1>To Do List</h1>
 
       <TaskInput addTask={addTask}/>
 
